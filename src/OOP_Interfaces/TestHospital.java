@@ -41,6 +41,7 @@ public class TestHospital {
 		us.covidVaccination();
 		
 		
+		
 		//interface to interface method access:
 		//using interface to interface casting:
 		//us ---> uk
@@ -48,6 +49,7 @@ public class TestHospital {
 		
 		ukm.orthoServices();
 		ukm.pediaServices();
+		
 		
 		us.physioServices();
 		us.emergencyServices();
